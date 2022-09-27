@@ -1,0 +1,30 @@
+* {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+.inside-container {
+  
+    border:solid black 2px;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    height: fit-content;
+    justify-content: center;
+    display: block;
+    margin: 45%;
+
+}
+.table{
+    width:"100%";
+    border: 1px solid black;
+  }
+.th{
+    border: 1px solid black;
+  }
+.tr{
+    border: 1px solid black;
+  }
+
